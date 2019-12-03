@@ -1,0 +1,4 @@
+{
+    "python": {"binary": "this/is/a/test/path"},
+    "singularity": {"binary": "this/is/a/test"}
+}

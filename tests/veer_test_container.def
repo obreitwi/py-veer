@@ -1,0 +1,11 @@
+Bootstrap: docker
+From: python:latest
+
+%runscript
+    echo "Hello!"
+
+%appenv first_app
+    export DEFINED_IN_FIRST_APP="This is my first app."
+
+%appenv second_app
+    export DEFINED_IN_SECOND_APP="This is my second app."
