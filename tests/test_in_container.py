@@ -6,7 +6,7 @@ an image present on the current host.
 
 It can be build from the testing_container.def recipe like so:
 
-# singularity build veer_test_container.img veer_test_container.def
+# singularity build veer_test_container.sif veer_test_container.def
 """
 
 import unittest
