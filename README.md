@@ -1,4 +1,7 @@
 # py-veer
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3675309.svg)](https://doi.org/10.5281/zenodo.3675309)
+
 Seamless execution of Python code in different environments, be it simple
 sub-processes or singularity containers.
 
