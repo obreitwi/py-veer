@@ -97,7 +97,7 @@ default_container:
 ## Tests
 
 Tests can be executed after install via `(cd tests && nosetests --verbose .)`.
-Some tests require a singularity test containre that can be build via:
+Some tests require a singularity test container that can be build via:
 ```console
 # singularity build tests/veer_test_container.sif tests/veer_test_container.def
 ```
