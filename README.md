@@ -61,7 +61,7 @@ if __name__ == "__main__":
 This works almost like `veer.in_subprocess` but allows for easy switching of
 environments.
 
-## Environmental setings
+## Environmental settings
 
 If `VEER_SINGULARITY` is defined or `VEER_CONTAINER_IMAGE` and
 `VEER_CONTAINER_APP` are defined, the functions decorated by
